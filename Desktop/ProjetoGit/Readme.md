@@ -1,1 +1,1 @@
-Este projeto ensino a você usar o Git.
+Este projeto ensino a você usar o Git, por Rafaela.
